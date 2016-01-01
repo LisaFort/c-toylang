@@ -1,0 +1,9 @@
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\nunit.framework.dll
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\nunit.mocks.dll
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\bin\Debug\nunit.framework.xml
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Projects\C++\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
